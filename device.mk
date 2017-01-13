@@ -111,9 +111,9 @@ PRODUCT_PACKAGES += \
     libbson \
     Snap
 
-# CMActions
-#PRODUCT_PACKAGES += \
-#    CMActions
+# Gestures
+PRODUCT_PACKAGES += \
+    Gestures
 
 # Display
 PRODUCT_PACKAGES += \
