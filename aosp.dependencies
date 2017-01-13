@@ -18,9 +18,8 @@
     "branch":      "cm-14.1"
   },
   {
-    "remote":        "github",
-    "repository": "lineageos/android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings",
-    "branch":       "cm-14.1"
+    "remote":       "aosp",
+    "repository": "platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8",
+    "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-4.8"
   }
 ]
