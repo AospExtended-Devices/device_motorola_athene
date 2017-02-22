@@ -23,6 +23,9 @@ TARGET_SCREEN_WIDTH := 1080
 TARGET_SCREEN_HEIGHT := 1920
 TARGET_BOOTANIMATION_HALF_RES := true
 
+#Magisk
+DEFAULT_ROOT_METHOD := magisk
+
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := athene
 PRODUCT_NAME := aosp_athene
