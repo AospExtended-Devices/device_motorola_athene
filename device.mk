@@ -108,7 +108,7 @@ PRODUCT_PACKAGES += \
 # Camera
 PRODUCT_PACKAGES += \
     libbson \
-    Snap
+    SnapdragonCamera
 
 # Gestures
 PRODUCT_PACKAGES += \
